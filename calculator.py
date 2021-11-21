@@ -39,8 +39,8 @@ while True:
         
         #  if user wants another calculation
 
-        next_calculation = input(" next calculation? (Y/N): ")
-        if next_calculation == "N":
+        next_calculation = input(" next calculation? (y/n): ")
+        if next_calculation == "n":
             print("          Thank you       ")
             
             break
